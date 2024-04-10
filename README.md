@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ren
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning sewing pattern drafting, japanese (since 2019), and new coding languages like javascript & python!
-- 💞️ I’m looking to collaborate on GENDER LIBERATION FOR EVERYONE
-- 📫 How to reach me: @dkettchen I am very easy to google, check out my comic Something About Lemons on tumblr and my youtube channel DKettchen
+- 🌱 I’m currently learning sewing pattern drafting, japanese (since 2019), and python!
+- 💞️ I’m looking to collaborate on GENDER LIBERATION FOR EVERYONE and short film projects
+- 📫 How to reach me: @dkettchen, check out my comic Something About Lemons on tumblr and my youtube channel DKettchen
 - 😄 Pronouns: he/any
 - ⚡ Fun fact: I don't know how github works am I doing this right lmao
 
