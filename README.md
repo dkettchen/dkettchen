@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ren
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning sewing pattern drafting, japanese (since 2019), and python!
+- 🌱 I’m currently learning how to make block sewing patterns, japanese (since 2019), and data engineering!
 - 💞️ I’m looking to collaborate on GENDER LIBERATION FOR EVERYONE and short film projects
 - 📫 How to reach me: @dkettchen, check out my comic Something About Lemons on tumblr and my youtube channel DKettchen
 - 😄 Pronouns: he/any
