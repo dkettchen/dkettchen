@@ -2,7 +2,9 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning how to make block sewing patterns, japanese (since 2019), and data visualisation!
 - 💞️ I’m looking to collaborate on GENDER LIBERATION FOR EVERYONE and short film projects
-- 📫 How to reach me: @dkettchen, check out my comic Something About Lemons on tumblr and my youtube channel DKettchen
+- 📫 How to reach me:
+-   for business: email me at dkettchen@gmail.com
+-   for leisure: @dkettchen, check out my comic Something About Lemons on tumblr and my youtube channel DKettchen
 - 😄 Pronouns: he/any
 - ⚡ Fun fact: I just finished a data engineering bootcamp at Northcoders!
 
